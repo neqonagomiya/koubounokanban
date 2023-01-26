@@ -13,8 +13,8 @@ pythonのみで作ります。
 
 ## 使い方
 
-``
-poetry run python main.py
+```
+poetry run python run.py
 ```
 
 ## 使ったライブラリ

@@ -1,3 +1,4 @@
 /memo.md
 /.git
 /.venv
+/app/instance/*
