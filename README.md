@@ -13,15 +13,15 @@ pythonのみで作ります。
 
 ## 使い方
 
-```
-uvicorn main:app --reload
+``
+poetry run python main.py
 ```
 
 ## 使ったライブラリ
 
 ```
-poetry add flask mistletoe
-poetry add -D black pytest
+poetry add flask mistletoe tomli
+poetry add -D black flake8 pytest
 ```
 
 ## ref
